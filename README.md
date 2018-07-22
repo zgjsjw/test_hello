@@ -1,2 +1,5 @@
 # test_hello
 just have a test
+
+HI~JW
+    THE PROCEDURE IS ABOUT THE FUNCTIONAL TEST OF EDIT AND COMMIT;
